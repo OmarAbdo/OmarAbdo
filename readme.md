@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=350&section=header&text=Omar%20Abdou&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20AI%20Engineer%20%7C%20Entrepreneur&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=350&section=header&text=Omar%20Abdou&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20AI%20Engineer%20%7C%20Entrepreneur&descAlignY=55&descSize=18)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 I'm a **Senior Full-Stack Engineer** and **AI Engineer** with 8+ years of experience building scalable solutions in fintech, SaaS, and AI. Always working on my next growth project, focusing on cutting-edge Web & AI applications and scalable architecture solutions.
 
-My expertise spans the full technology stack, from machine learning algorithms to microservices architecture, as well as frontend development always following clean code principles and domain-driven design.
+My expertise spans the full technology stack, from machine learning algorithms to microservices architecture, as well as frontend development always following clean code principles & DDD.
 
 </td>
 <td width="65%" valign="top">
@@ -149,7 +149,7 @@ My expertise spans the full technology stack, from machine learning algorithms t
 <h1 style="border: none;">💪</h1>
 <h4>2023  - Present</h4>
 <strong> Senior Developer </strong><br>
-Independent<br>
+Employment<br>
 <em>Reach out to ship the next great product with your company!</em>
 </td>
 <td width="25%" align="center">
@@ -227,6 +227,6 @@ const architecturePhilosophy = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=100&section=footer)
 
 </div>
