@@ -176,7 +176,7 @@ Zen Admin<br>
 <h4 style="margin: 0 0 10px 0;">2019 - 2022</h4>
 <strong>Software Developer</strong><br>
 Simon Kucher<br>
-<em>🥉 3rd most profitable project across +40 offices of Simon Kucher</em>
+<em>🥉 3rd most profitable project across +40 offices </em>
 </div>
 </td>
 <td width="25%" align="center" style="padding: 20px;">
