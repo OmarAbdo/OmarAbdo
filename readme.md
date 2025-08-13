@@ -149,8 +149,8 @@ My expertise spans the full technology stack, from machine learning algorithms t
 <h1 style="border: none;">💪</h1>
 <h4>2023  - Present</h4>
 <strong> Senior Developer </strong><br>
-Employment<br>
-<em>Reach out to ship the next great product with your company!</em>
+Open to offers<br>
+<em>Reach out to ship the next great product right now!</em>
 </td>
 <td width="25%" align="center">
 <h1 style="border: none;">💼</h1>
@@ -164,7 +164,7 @@ Zen Admin<br>
 <h4>2019 - 2022</h4>
 <strong>Software Developer</strong><br>
 Simon Kucher<br>
-<em>🥉 3rd most profitable project across +40 offices in Simon Kucher</em>
+<em>🥉 3rd most profitable project across +40 offices</em>
 </td>
 <td width="25%" align="center">
 <h1 style="border: none;">🎯</h1>
