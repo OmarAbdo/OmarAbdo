@@ -33,7 +33,7 @@ My expertise spans the full technology stack, from machine learning algorithms t
 </td>
 <td align="center" style="padding: 20px;">
 <h3>🌍 12+</h3>
-<p><strong>Projects Delivered</strong><br>Across 5+ Countries<br><em>CodeNetro Agency</em></p>
+<p><strong>Projects Delivered</strong><br>Across 5+ Countries<br><em>Code Netro Agency</em></p>
 </td>
 </tr>
 </table>
@@ -164,7 +164,7 @@ Zen Admin<br>
 <h4>2019 - 2022</h4>
 <strong>Software Developer</strong><br>
 Simon Kucher<br>
-<em>🥉 3rd most profitable project across +40 offices</em>
+<em>🥉 3rd most profitable project across +40 offices in Simon Kucher</em>
 </td>
 <td width="25%" align="center">
 <h1 style="border: none;">🎯</h1>
