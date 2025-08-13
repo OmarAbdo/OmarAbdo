@@ -6,7 +6,7 @@
 
 <div style="margin: 0 auto; padding: 0 20px; border: none;">
 
-<table width="100%" style="border:none!important;">
+<table width="100%" style="border:none;">
 <tr>
 <td width="35%" valign="top">
 
@@ -15,13 +15,6 @@
 I'm a **Senior Full-Stack Engineer** and **AI Engineer** with 8+ years of experience building scalable solutions in fintech, SaaS, and AI. Always working on my next growth project, focusing on cutting-edge Web & AI applications and scalable architecture solutions.
 
 My expertise spans the full technology stack, from machine learning algorithms to microservices architecture, as well as frontend development always following clean code principles and domain-driven design.
-
-### Current Focus
-
-- 🚀 Enhacing the tech hub in Berlin
-- 🧠 Building AI-powered applications and systems
-- 🏗️ Designing scalable microservices architectures
-- 📚 Contributing to the open-source community
 
 </td>
 <td width="65%" valign="top">
@@ -171,14 +164,14 @@ Zen Admin<br>
 <h4>2019 - 2022</h4>
 <strong>Software Developer</strong><br>
 Simon Kucher<br>
-<em>🥉 3rd most profitable project company-wide</em>
+<em>🥉 3rd most profitable project across +40 offices</em>
 </td>
 <td width="25%" align="center">
 <h1 style="border: none;">🎯</h1>
 <h4>2016 - 2019</h4>
 <strong>Founder & Developer</strong><br>
 Code Netro Agency<br>
-<em>🌍 12+ projects across 5+ countries 3 continents</em>
+<em>🌍 12+ projects across 5+ countries and 3 continents</em>
 </td>
 </tr>
 </table>
