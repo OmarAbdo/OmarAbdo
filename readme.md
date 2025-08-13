@@ -4,9 +4,9 @@
 
 </div>
 
-<div style="max-width: 850; margin: 0 auto; padding: 0 20px;">
+<div style="margin: 0 auto; padding: 0 20px;">
 
-<table width="100%"  border="0">
+<table width="100%" style="border:none;">
 <tr>
 <td width="35%" valign="top">
 
@@ -73,12 +73,12 @@ My expertise spans the full technology stack, from machine learning algorithms t
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<!-- **Cloud & DevOps**
+**Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) -->
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 </div>
 
@@ -153,26 +153,30 @@ My expertise spans the full technology stack, from machine learning algorithms t
 <table width="100%">
 <tr>
 <td width="25%" align="center">
+<h1 style="border: none;">💪</h1>
 <h4>2023  - Present</h4>
-<strong>🚀 Senior Developer </strong><br>
+<strong> Senior Developer </strong><br>
 Independent<br>
 <em>Reach out to ship the next great product with your company!</em>
 </td>
 <td width="25%" align="center">
+<h1 style="border: none;">💼</h1>
 <h4>2023</h4>
-<strong>💼 Tech Product Manager</strong><br>
+<strong>Tech Product Manager</strong><br>
 Zen Admin<br>
 <em>🏆 30% HR cost reduction through SaaS innovation</em>
 </td>
 <td width="25%" align="center">
+<h1 style="border: none;">🚀</h1>
 <h4>2019 - 2022</h4>
-<strong>💻 Software Developer</strong><br>
+<strong>Software Developer</strong><br>
 Simon Kucher<br>
 <em>🥉 3rd most profitable project internationally</em>
 </td>
 <td width="25%" align="center">
+<h1 style="border: none;">🎯</h1>
 <h4>2016 - 2019</h4>
-<strong>🎯 Founder & Developer</strong><br>
+<strong>Founder & Developer</strong><br>
 CodeNetro Agency<br>
 <em>🌍 12+ projects across 5+ countries</em>
 </td>
