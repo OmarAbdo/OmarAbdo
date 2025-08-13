@@ -4,9 +4,8 @@
 
 </div>
 
-<div style="margin: 0 auto; padding: 0 20px; border: none;">
-
-<table width="100%" style="border:none;">
+<!-- Hero Section: About + Professional Impact -->
+<table width="100%">
 <tr>
 <td width="35%" valign="top">
 
@@ -21,22 +20,30 @@ My expertise spans the full technology stack, from machine learning algorithms t
 
 ### Professional Impact
 
-<table>
+<div align="center">
+<table width="100%">
 <tr>
-<td align="center" style="padding: 20px;">
-<h3>🏆 30%</h3>
-<p><strong>HR Cost Reduction</strong><br>Multi-tenant SaaS Platform<br><em>Zen Admin</em></p>
+<td align="center" width="33%" style="padding: 15px;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; padding: 20px; color: white;">
+<h3 style="font-size: 2em; margin: 0;">🏆 30%</h3>
+<p style="margin: 5px 0 0 0;"><strong>HR Cost Reduction</strong><br>Multi-tenant SaaS Platform<br><em>Zen Admin</em></p>
+</div>
 </td>
-<td align="center" style="padding: 20px;">
-<h3>🥉 3rd</h3>
-<p><strong>Most Profitable Project</strong><br>Among 40 International Offices<br><em>Simon Kucher</em></p>
+<td align="center" width="33%" style="padding: 15px;">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 8px; padding: 20px; color: white;">
+<h3 style="font-size: 2em; margin: 0;">🥉 3rd</h3>
+<p style="margin: 5px 0 0 0;"><strong>Most Profitable Project</strong><br>Among 40 International Offices<br><em>Simon Kucher</em></p>
+</div>
 </td>
-<td align="center" style="padding: 20px;">
-<h3>🌍 12+</h3>
-<p><strong>Projects Delivered</strong><br>Across 5+ Countries<br><em>Code Netro Agency</em></p>
+<td align="center" width="33%" style="padding: 15px;">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 8px; padding: 20px; color: white;">
+<h3 style="font-size: 2em; margin: 0;">🌍 12+</h3>
+<p style="margin: 5px 0 0 0;"><strong>Projects Delivered</strong><br>Across 5+ Countries<br><em>Code Netro Agency</em></p>
+</div>
 </td>
 </tr>
 </table>
+</div>
 
 ### Tech Stack
 
@@ -145,33 +152,41 @@ My expertise spans the full technology stack, from machine learning algorithms t
 
 <table width="100%">
 <tr>
-<td width="25%" align="center">
-<h1 style="border: none;">💪</h1>
-<h4>2023  - Present</h4>
-<strong> Senior Developer </strong><br>
+<td width="25%" align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; padding: 25px; color: white;">
+<h1 style="font-size: 3em; margin: 0 0 15px 0;">💪</h1>
+<h4 style="margin: 0 0 10px 0;">2023 - Present</h4>
+<strong>Senior Developer</strong><br>
 Open to offers<br>
 <em>Reach out to ship the next great product right now!</em>
+</div>
 </td>
-<td width="25%" align="center">
-<h1 style="border: none;">💼</h1>
-<h4>2023</h4>
+<td width="25%" align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 10px; padding: 25px; color: white;">
+<h1 style="font-size: 3em; margin: 0 0 15px 0;">💼</h1>
+<h4 style="margin: 0 0 10px 0;">2023</h4>
 <strong>Tech Product Manager</strong><br>
 Zen Admin<br>
 <em>🏆 30% HR cost reduction through SaaS innovation</em>
+</div>
 </td>
-<td width="25%" align="center">
-<h1 style="border: none;">🚀</h1>
-<h4>2019 - 2022</h4>
+<td width="25%" align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 10px; padding: 25px; color: white;">
+<h1 style="font-size: 3em; margin: 0 0 15px 0;">🚀</h1>
+<h4 style="margin: 0 0 10px 0;">2019 - 2022</h4>
 <strong>Software Developer</strong><br>
 Simon Kucher<br>
-<em>🥉 3rd most profitable project across +40 offices</em>
+<em>🥉 3rd most profitable project across +40 offices of Simon Kucher</em>
+</div>
 </td>
-<td width="25%" align="center">
-<h1 style="border: none;">🎯</h1>
-<h4>2016 - 2019</h4>
+<td width="25%" align="center" style="padding: 20px;">
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 10px; padding: 25px; color: white;">
+<h1 style="font-size: 3em; margin: 0 0 15px 0;">🎯</h1>
+<h4 style="margin: 0 0 10px 0;">2016 - 2019</h4>
 <strong>Founder & Developer</strong><br>
 Code Netro Agency<br>
 <em>🌍 12+ projects across 5+ countries and 3 continents</em>
+</div>
 </td>
 </tr>
 </table>
@@ -180,7 +195,7 @@ Code Netro Agency<br>
 
 ## Architecture Philosophy
 
-<div >
+<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; border-left: 4px solid #667eea;">
 
 ```typescript
 const architecturePhilosophy = {
@@ -218,8 +233,6 @@ const architecturePhilosophy = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.abdo.jobs@gmail.com)
 
 **📍 Berlin, Germany | 🌍 Open to Remote Opportunities**
-
-</div>
 
 </div>
 
