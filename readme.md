@@ -4,9 +4,9 @@
 
 </div>
 
-<div style="margin: 0 auto; padding: 0 20px;">
+<div style="margin: 0 auto; padding: 0 20px; border: none;">
 
-<table width="100%" style="border:none;">
+<table width="100%" style="border:none!important;">
 <tr>
 <td width="35%" valign="top">
 
@@ -171,14 +171,14 @@ Zen Admin<br>
 <h4>2019 - 2022</h4>
 <strong>Software Developer</strong><br>
 Simon Kucher<br>
-<em>🥉 3rd most profitable project internationally</em>
+<em>🥉 3rd most profitable project company-wide</em>
 </td>
 <td width="25%" align="center">
 <h1 style="border: none;">🎯</h1>
 <h4>2016 - 2019</h4>
 <strong>Founder & Developer</strong><br>
-CodeNetro Agency<br>
-<em>🌍 12+ projects across 5+ countries</em>
+Code Netro Agency<br>
+<em>🌍 12+ projects across 5+ countries 3 continents</em>
 </td>
 </tr>
 </table>
@@ -187,9 +187,7 @@ CodeNetro Agency<br>
 
 ## Architecture Philosophy
 
-<div align="center">
-
-**Clean Code Principles & Best Practices**
+<div >
 
 ```typescript
 const architecturePhilosophy = {
